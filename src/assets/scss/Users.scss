@@ -1,0 +1,75 @@
+.users {
+    color: darkcyan;
+    margin-top: 2rem;
+    border: 1px solid darkcyan;
+    border-radius: 0 8px 8px 0;
+    padding: 2rem;
+    margin-left: 0.1rem;
+
+    .users-content {
+         display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        .result-part {
+            width: 17vw;
+        }
+        .users-part {
+            
+
+            .users-part-title {
+                display: flex;
+                justify-content: space-between;
+                align-items: flex-end;
+                padding: 2rem;
+                color: #fff;
+                background-color: darkcyan;
+                text-align: center;
+                font-weight: bold;
+
+                #user-select {
+                    color: #fff;
+                background-color: darkcyan;
+                text-align: center;
+                font-weight: bold;
+                margin: 0 0.4rem;
+                }
+            }
+
+            .validate-list {
+              
+                .message {
+                    width: 10vw;
+                    padding: 0.4rem 0;
+                    border-bottom: 1px solid darkcyan;
+                    height: 5vh;
+                    overflow: hidden;
+                    text-align: center;
+                }
+          
+            }
+
+            .percent-by-user {
+                margin-top: 0.5rem;
+                border: 1px solid darkcyan;
+                padding: 1.5rem 0.8rem;
+                text-align: center;
+
+                span {
+                    font-size: 0.8rem;
+                    font-weight: bold;
+                }
+                p {
+                    color: #fff;
+                    background-color: darkcyan;
+                    font-size: 2rem;
+                    font-weight: bold;
+                    margin: 0.3rem 2.2rem;
+                    padding: 0.4rem;
+                }
+            }
+
+                
+            
+        }
+    }
+}

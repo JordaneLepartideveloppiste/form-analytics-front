@@ -1,0 +1,68 @@
+.responses {
+    color: purple;
+    margin-top: 2rem;
+     border: 1px solid purple;
+     padding: 2rem;
+     border-radius: 8px 0 0 8px;
+     margin-right: 0.1rem;
+
+    .responses-content {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+
+        .responses-part {
+
+
+            .responses-part-title {
+                padding: 2rem;
+                color: #fff;
+                background-color: purple;
+                text-align: center;
+                font-weight: bold;
+            }
+
+            .questions-list {
+
+
+                .question {
+                    text-transform: uppercase;
+                    text-align: right;
+                    padding: 0.4rem 0;
+                    border-bottom: 1px solid purple;
+                    height: 5vh;
+                }
+                .question:first-child {
+                    display: none;
+                }
+                
+            }
+            .responses-list {
+
+
+                .response {
+                    text-transform: uppercase;
+                    text-align: center;
+                    padding: 0.4rem 0;
+                    border-bottom: 1px solid purple;
+                    height: 5vh;
+                }
+                
+                
+            }
+            .percents-list {
+
+
+                .percent {
+                    text-transform: uppercase;
+                    text-align: center;
+                    padding: 0.4rem 0;
+                    border-bottom: 1px solid purple;
+                    height: 5vh;
+                }
+                
+                
+            }
+        }
+    }
+}
