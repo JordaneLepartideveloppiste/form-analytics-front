@@ -111,7 +111,7 @@ const Users = ({ data }) => {
                 (elem, index) => {
                   return (
                     <div className="message" key={index}>
-                      <p>{elem}</p>
+                      <p className={elem === "oui" ? "valid-message" : null}>{elem}</p>
                     </div>
                   );
                 }

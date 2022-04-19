@@ -44,6 +44,11 @@
                     height: 5vh;
                     overflow: hidden;
                     text-align: center;
+
+                    .valid-message {
+                        color: #fff;
+                        background-color: darkcyan;
+                    }
                 }
           
             }

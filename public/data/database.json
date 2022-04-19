@@ -1,0 +1,458 @@
+
+[
+  {
+    "id": 1,
+    "name": "Une valeur",
+    "icon": "fa-solid fa-euro-sign",
+    "color": "#00A877",
+    "unities": ["cents", "€", "K€", "M€"],
+    "options": [
+      {
+        "name": "Chameau",
+        "number": 2500,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206945/dumb-converter/dromadaire_z7paw4.webp",
+        "text": "Le dromadaire, ou chameau d'Arabie, est une espèce de chameau, mammifère artiodactyle de la famille des camélidés. Pour cette raison, qualifier un dromadaire de « chameau » n'est pas erroné mais juste moins précis ; les espèces nommées couramment « chameau » présentent 2 bosses, alors que le dromadaire n'en possède qu'une seule."
+      },
+      {
+        "name": "Franc",
+        "number": 0.1524,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206945/dumb-converter/franc_zo3knm.webp",
+        "text": "Bien qu’une pièce portant le nom de « franc », dite « franc à cheval », ait existé dès le 5 décembre 1360, le franc français ne fut l’unité monétaire unique de la France qu’entre le 7 avril 1795 et le 31 décembre 1998 (et l’unité monétaire commune en Andorre et à Monaco). Il succède en effet à la livre tournois."
+      },
+      {
+        "name": "Donald Trump",
+        "number": 2275000000,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206965/dumb-converter/trump_muikgm.webp",
+        "text": "Né le 14 juin 1946, à New York, est un homme d'affaires, animateur de télévision, homme d'État et milliardaire américain. Il est le 45e président des États-Unis, en fonction du 20 janvier 2017 au 20 janvier 2021."
+      },
+      {
+        "name": "Bitcoin",
+        "number": 41879.43,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206943/dumb-converter/bitcoin_hszonz.webp",
+        "text": "L'idée fut présentée pour la première fois en novembre 2008 par une personne, ou un groupe de personnes, sous le pseudonyme de Satoshi Nakamoto. Le code source de l'implémentation de référence fut quant à lui publié en 2009. L' objectif est de créer un système décentralisé et pair-à-pair afin d'échanger de la valeur monétaire en s'affranchissant de tout organisme tiers, tel que les institutions financières."
+      },
+      {
+        "name": "Lingot d'or",
+        "number": 56228.60,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206947/dumb-converter/lingots_resgpp.webp",
+        "text": "Un lingot d’or est un bloc d’or métallique raffiné de n’importe quelle forme (pièce de monnaie, barre) produit par un fabricant respectant des normes de fabrication, d’étiquetage et de suivi administratif. Les lingots d’or dits « Good Delivery » (de bonne livraison) détenus comme réserve d’or par les banques centrales pèsent 400 onces troy, soit 12,4 kg et ont une pureté en or supérieure à 99,5 %."
+      },
+      {
+        "name": "TotalEnergies SE",
+        "number": 205000000000,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206964/dumb-converter/total_cphjrj.webp",
+        "text": "Anciennement Total, est une compagnie multi-énergies mondiale de production et de fourniture d’énergies : pétrole et biocarburants, gaz naturel et gaz verts, renouvelables et électricité. Elle fait partie des 6 « supermajors » : elle est la cinquième des plus grosses entreprises du secteur à l'échelle mondiale."
+      },
+      {
+        "name": "Lionel Messi",
+        "number": 41000000,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206947/dumb-converter/messi_ttjnip.webp",
+        "text": "Né le 24 juin 1987 à Rosario en Argentine, seul joueur septuple Ballon d'or et sextuple Soulier d'or, Messi est considéré comme l'un des meilleurs joueurs de football toutes générations confondues. Joueur le plus décisif du xxie siècle, meilleur buteur sous un seul maillot en club, il est élu meilleur ailier droit de tous les temps par France Football tandis que l'IFFHS le désigne meilleur joueur de la décennie de 2011 à 2020."
+      },
+      {
+        "name": "Jeff Bezos",
+        "number": 189200000000,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206945/dumb-converter/bezos_ban5do.webp",
+        "text": "Né Jeffrey Jorgensen le 12 janvier 1964 à Albuquerque (Nouveau-Mexique), est un entrepreneur, industriel, propriétaire de médias et milliardaire américain. Il est notamment connu pour être le fondateur, principal actionnaire et ancien président-directeur général (PDG) d'Amazon et le fondateur de l'entreprise spatiale Blue Origin, proposant notamment un accès à l'espace pour le tourisme spatial."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Une distance",
+    "icon": "fa-solid fa-ruler",
+    "color": "#01A59C",
+    "unities": ["mm", "cm", "m", "km"],
+    "options": [
+      {
+        "name": "Paris - New-York",
+        "number": 5836000,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206948/dumb-converter/paris-ny_hkpydx.webp",
+        "text": "Comparez les vols PAR - NYC. Trouvez le vol parfait en un instant! Vol Pas Cher Paris - New York. Comparez et économisez avec Dumb Converter.  0 Promo exceptionnelle."
+      },
+      {
+        "name": "Notre-Dame de Paris",
+        "number": 128,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206948/dumb-converter/nd-paris_yu7gln.webp",
+        "text": "Communément appelée Notre-Dame, elle est l'un des monuments les plus emblématiques de Paris et de la France. Elle est située sur l'île de la Cité dans le 4ème arrondissement et est un lieu de culte catholique, siège de l'archidiocèse de Paris, dédiée à la Vierge Marie."
+      },
+      {
+        "name": "Rame de TER",
+        "number": 133.9,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206949/dumb-converter/ter_ijujkp.webp",
+        "text": "La genèse de la marque et du concept TER accompagnent la régionalisation des services ferroviaires. C'est 1,1 million de voyageurs par jour et 130000 abonnés annuels."
+      },
+      {
+        "name": "Terre - Lune",
+        "number": 384400000000,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206947/dumb-converter/lune_ioi3ih.webp",
+        "text": "Selon les nuits, la Lune nous semble plus ou moins proche. Et pour cause, sa distance par rapport à la Terre varie de plus ou moins 20%. En astronomie, la distance lunaire est la distance moyenne entre le centre de la Terre et le centre de la Lune."
+      },
+      {
+        "name": "Terre - Soleil",
+        "number": 149600000000,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206949/dumb-converter/soleil_tinpgp.webp",
+        "text": "L'unité astronomique, qui correspond à la distance entre la Terre et le Soleil, ne fluctuera plus. Elle a été officiellement gravée dans le marbre par l'Union astronomique internationale (UAI) en 2020."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Une hauteur",
+    "icon": "fa-solid fa-arrows-up-down",
+    "color": "#0094AF",
+    "unities": ["mm", "cm", "m", "km"],
+    "options": [
+      {
+        "name": "Kobe Bryant",
+        "number": 1.98,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206946/dumb-converter/kobe_agiffe.webp",
+        "text": "Né le 23 août 1978 à Philadelphie en Pennsylvanie et mort le 26 janvier 2020 à Calabasas en Californie, est un joueur américain de basket-ball. Il évolue dans la franchise NBA des Lakers de Los Angeles pendant vingt saisons, entre 1996 et 2016. Quintuple champion NBA, il est l'un des sept joueurs à avoir inscrit plus de 30000 points en carrière. Il est également double champion olympique avec l'équipe des USA, en 2008 et en 2012."
+      },
+      {
+        "name": "Tour Eiffel",
+        "number": 324,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206944/dumb-converter/eiffel_zdzu8z.webp",
+        "text": "La tour Eiffel est une tour de fer puddlé située à Paris, à l’extrémité nord-ouest du parc du Champ-de-Mars en bordure de la Seine dans le 7e arrondissement. Son adresse officielle est 5, avenue Anatole-France."
+      },
+      {
+        "name": "Pygmées",
+        "number": 1.5,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206948/dumb-converter/pygmees_by8txn.webp",
+        "text": "Le terme « Pygmée » englobe différents groupes ethniques disséminés le long de l'équateur dans de nombreux États de l'Afrique centrale actuelle, ce sont notamment les Baka, les Aka, les Mbuti (ou Bambuti), les Babongo, les Babinga ou les Efe. Les Pygmées partagent jusque 5 femmes, et une culture commune qui accorde une grande importance à la musique et la danse."
+      },
+      {
+        "name": "Girafe",
+        "number": 4.2,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206946/dumb-converter/girafe_czgutw.webp",
+        "text": "La Girafe est une espèce de mammifères à 4 pattes ongulés artiodactyles, du groupe des ruminants, vivant dans les savanes africaines et répandue du Tchad jusqu'en Afrique du Sud, son nom commun vient de l'arabe \"zarāfah\", mais fut anciennement appelé camélopard."
+      },
+      {
+        "name": "Nicolas SarKozy",
+        "number": 1.66,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206948/dumb-converter/sarko_ijthdt.webp",
+        "text": "Né le 28 janvier 1955 à Paris, est un homme d'État français. Il est président de la République française du 16 mai 2007 au 15 mai 2012."
+      },
+      {
+        "name": "Panier de basket",
+        "number": 3.05,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206948/dumb-converter/panier_ci4pge.webp",
+        "text": "Au basket-ball, le panier est le cerceau métallique à travers lequel les joueurs doivent faire passer le ballon pour marquer des points. Celui-ci est fixé au panneau. Un filet ouvert vers le bas, de 45 cm de diamètre, est attaché en dessous du panier."
+      },
+      {
+        "name": "Empire State Building",
+        "number": 381,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206945/dumb-converter/esb_vrrdyx.webp",
+        "text": "Gratte-ciel de style Art déco situé dans l'arrondissement de Manhattan, à New York. Il est situé dans le quartier de Midtown au 350 de la 5e Avenue, entre les 33e et 34e rues. Inauguré le 1er mai 1931, il compte 102 étages."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Une largeur",
+    "icon": "fa-solid fa-arrows-left-right",
+    "color": "#006EBF",
+    "unities": ["mm", "cm", "m", "km"],
+    "options": [
+      {
+        "name": "Iphone 13",
+        "number": 0.0715,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206946/dumb-converter/iphone_qtc17q.webp",
+        "text": "Le double appareil photo le plus avancé à ce jour sur iPhone. La puce A15 Bionic, d’une vitesse fulgurante. Une autonomie nettement améliorée. Un design résistant. La 5G ultra-rapide. Et un écran Super Retina XDR plus lumineux."
+      },
+      {
+        "name": "Bus articulé",
+        "number": 18.75,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206944/dumb-converter/articule_c4hcyl.webp",
+        "text": "Un autobus articulé, également appelé bus accordéon, est un autobus constitué d'une ou 2 parties rigides reliées entre elles par un axe de pivotement. Cette disposition permet une plus grande capacité qu'un bus standard."
+      },
+      {
+        "name": "Argentinosaurus",
+        "number": 39,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206944/dumb-converter/argentinosaurus_fgq0ws.webp",
+        "text": "Argentinosaurus, découvert en Argentine en 1989 par le paléontologue Guillermo Heredia, est l'un des plus grands dinosaures jamais découverts. Ce dinosaure géant a vécu au Crétacé supérieur, plus précisément au Cénomanien, il y a entre 97 et 93,5 millions d'années, dans ce qui est maintenant l'Amérique du Sud."
+      },
+      {
+        "name": "Éolienne",
+        "number": 120,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206945/dumb-converter/eolienne_kfddzj.webp",
+        "text": "Une éolienne est un dispositif qui transforme l'énergie cinétique du vent en énergie mécanique, dite énergie éolienne, laquelle est ensuite le plus souvent transformée en énergie électrique. Dans le paysage de nos régions, elle fait tournoyer ses 3 pales. Une forme ancienne d'éolienne est le moulin à vent."
+      },
+      {
+        "name": "Bagage cabine",
+        "number": 0.55,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206943/dumb-converter/cabine_mxzjtx.webp",
+        "text": "Au sens du transport aérien, le bagage à main doit donc être défini comme le bagage que vous êtes autorisé à emporter à bord, dans la cabine. En anglais, ces « petits » bagages à main sont appelés « personal items ». Le nombre de ces objets personnels varie de 1 à 3."
+      },
+      {
+        "name": "Airbus A330-300",
+        "number": 63.69,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206944/dumb-converter/a330_g3ooc6.webp",
+        "text": "Après le lancement de l'A310 en 1978 et de l'A300-600 en 1981, Airbus décide d'étudier un projet reprenant la section de fuselage de l'A300/310 mais avec une voilure nettement plus grande, provisoirement baptisée TA9, avec pour objectif de concurrencer le nouveau Boeing 767 en proposant un appareil avec une autonomie de plus de 10 000 km."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Un poids",
+    "icon": "fa-solid fa-weight-scale",
+    "color": "#7D01F8",
+    "unities": ["mg", "g", "Kg", "T"],
+    "options": [
+      {
+        "name": "Âne vivant",
+        "number": 480000,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206943/dumb-converter/ane_kx1ayl.webp",
+        "text": "Âne est le nom vernaculaire donné à certaines espèces de mammifères à 4 pattes ongulées de la famille des Équidés, plus petit que le cheval, à longues oreilles et à l'échine saillante."
+      },
+      {
+        "name": "Éléphant d'Afrique",
+        "number": 6000000,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206944/dumb-converter/elafrique_o4qf73.webp",
+        "text": "Il s'agit du plus grand des animaux terrestres vivant actuellement. Cette espèce se rencontre en prairie, marécage et bord de fleuve, jusqu'en Afrique du Sud. Il fait partie des éléphants contemporains survivants. Il a 1 trompe qui lui confère bien des jeux de mots."
+      },
+      {
+        "name": "Tesla Model 3",
+        "number": 1844000,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206949/dumb-converter/tesla_awyelf.webp",
+        "text": "La Model 3 est conçue pour offrir d'excellentes performances électriques. Elle bénéficie d'une accélération rapide, d'une grande autonomie et d'une recharge rapide à domicile."
+      },
+      {
+        "name": "Once d'or",
+        "number": 31.104,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206948/dumb-converter/once_mqepkm.webp",
+        "text": "Traditionnellement utilisée dans les pays anglo-saxons, elle est aujourd'hui la référence internationale n°1 de mesure pour les métaux précieux comme l'or, l'argent ou les pierres précieuses."
+      },
+      {
+        "name": "Pot de Nutella",
+        "number": 900,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206948/dumb-converter/nutella_plkkpf.webp",
+        "text": "Nutella est une marque de pâte à tartiner créée le 20 avril 1964 en Italie dans la région du Piémont par la société d'industrie agroalimentaire italienne Ferrero. Elle est composée de sucre, d'huile de palme, de noisettes, de cacao, de lait, de lactosérum et d'émulsifiants."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Une surface",
+    "icon": "fa-solid fa-square",
+    "color": "#9F00C5",
+    "unities": ["cm2", "m2", "are", "ha"],
+    "options": [
+      {
+        "name": "Terrain de foot",
+        "number": 10800,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206946/dumb-converter/foot_r0zknw.webp",
+        "text": "Le terrain, et les différentes surfaces qui le composent, sont délimités par des lignes sur le sol. Les buts ont une longueur de 7,32 m entre l’intérieur de chaque poteau et 2,44 m de haut entre le sol et la partie inférieure de la barre transversale. Ils sont placés au centre de chaque ligne de but. Chacun des buts est entouré à 16,5 m par une « surface de réparation ». Le point de penalty est à 11 m en face du but."
+      },
+      {
+        "name": "Terrain de basket",
+        "number": 420,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206945/dumb-converter/basket_jfrgei.webp",
+        "text": "Aux abords d'un terrain de basket-ball, on trouve la table de marque, où il y a le marqueur, l'opérateur et le chronomètre. À ses côtés, il y a les deux bancs des deux équipes (l'équipe locale à gauche ; l'équipe visiteuse à droite). Dans certaines salles de petite dimension, les spectateurs peuvent se trouver en contact direct avec les joueurs, à 2 mètres seulement du terrain."
+      },
+      {
+        "name": "Magasin Ikea",
+        "number": 32700,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206946/dumb-converter/ikea_cm66in.webp",
+        "text": "Retrouvez bornes électriques, navettes, applis, listes d'achats, sacs et chariots, aires de jeu, facilités pour les familles sont proposés dans les 34 magasins de l'enseigne de meubles à monter soi-même ."
+      },
+      {
+        "name": "Champ de mars",
+        "number": 245000,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206947/dumb-converter/mars_zsfyjn.webp",
+        "text": "Le Champ-de-Mars est un vaste jardin public, entièrement ouvert et situé à Paris dans le 7e arrondissement, entre la tour Eiffel au nord-ouest et l'École militaire au sud-est. Il est l'un des plus grands espaces verts de Paris."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Une capacité",
+    "icon": "fa-solid fa-person",
+    "color": "#D00181",
+    "unities": ["personnes", "dizaines", "centaines", "milliers"],
+    "options": [
+      {
+        "name": "Halles Tony Garnier",
+        "number": 17000,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206949/dumb-converter/tony_oxajhx.webp",
+        "text": "La halle Tony-Garnier est une salle de concert, appartenant à la ville de Lyon, située dans le quartier de Gerland. Elle est l'une des plus grandes de France. Elle est inscrite à l'inventaire des Monuments historiques depuis 1975, pour sauvegarder les éléments d'architecture de l'ancienne grande halle des abattoirs."
+      },
+      {
+        "name": "Zénith Strasbourg Europe",
+        "number": 12079,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206966/dumb-converter/zenstras_zj9htt.webp",
+        "text": "Le Zénith Strasbourg Europe est une salle de spectacle située à Eckbolsheim, à l'ouest de Strasbourg, dans l'Eurométropole de Strasbourg. Après seulement 2 ans de travaux, il devient le plus grand zénith de France pour ce qui est de la capacité."
+      },
+      {
+        "name": "Voiture de TER",
+        "number": 88,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206965/dumb-converter/wagon_rdsfyh.webp",
+        "text": "Les voitures Corail TER \"standard\" sont identiques aux voitures Corail \"nouvelle décoration\", seule la livrée extérieure change : gris métallisé sur la majeure partie des flancs et des portes, bandeau bleu en bas de caisse, toit et châssis gris foncé. Un logo de la région est généralement ajouté. Il peut 1 porte et 0 toilette."
+      },
+      {
+        "name": "Colisée",
+        "number": 80000,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206944/dumb-converter/colisee_owob1h.webp",
+        "text": "Le Colisée est actuellement en état de ruine, en raison des dommages causés par les tremblements de terre (443, 508, 801, 847 et 1349) et la récupération des pierres. Aujourd'hui, il est l'une de ses attractions touristiques les plus populaires avec 7,6 millions de visiteurs et est représenté sur la pièce de monnaie italienne de 5 centimes d'euro."
+      },
+      {
+        "name": "Stade Maracana",
+        "number": 78838,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206947/dumb-converter/maracana_fudtvy.webp",
+        "text": "Stade de football situé à Rio de Janeiro au Brésil. Inauguré le 16 juin 1950 pour la Coupe du monde de 1950, l’Estádio Municipal est dès sa construction appelé du nom du quartier Maracanã où il a été construit. Son nom officiel est depuis 1966 Estádio Jornalista Mário Filho, en hommage au journaliste sportif et écrivain Mário Filho."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Un volume",
+    "icon": "fa-solid fa-cube",
+    "color": "#F3003D",
+    "unities": ["ml", "cl", "l", "cm3", "m3"],
+    "options": [
+      {
+        "name": "Piscine Olympique",
+        "number": 2500000,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206948/dumb-converter/piscine_xfye5f.webp",
+        "text": "Une piscine olympique est un type de piscine dont les dimensions conviennent aux compétitions organisées dans des grands bassins, en particulier l'épreuve de natation des Jeux olympiques, mais aussi les Championnats du monde de natation, ainsi que les matchs de water-polo, par opposition aux petits bassins de 25 mètres."
+      },
+      {
+        "name": "Canette",
+        "number": 0.33,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206944/dumb-converter/canette_aidrdg.webp",
+        "text": "2005 : La canette fête ses 70 ans. A cette occasion, la styliste anglaise Zandra Rhodes est sollicitée par le Beverage Can Maker Europe pour dessiner une canette d'exception. Incrustée de diamants, elle est estimée à 25 000 €."
+      },
+      {
+        "name": "Poney Shetland",
+        "number": 488,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206948/dumb-converter/poney_j3pe4m.webp",
+        "text": "Le Shetland est une race de poney écossaise originaire des îles Shetland, au nord de l'Écosse. C'est l'un des plus petits équidés du monde, particularité qu'il doit à son adaptation au biotope rigoureux de son île originelle. La question : 1 poney est-il aussi bien monté qu' 1 cheval ?"
+      },
+      {
+        "name": "Thriller",
+        "number": 0,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206949/dumb-converter/thriller_oyw4rw.webp",
+        "text": "Sixième album studio de l'artiste américain Michael Jackson, il est coproduit par Quincy Jones et sort le 30 novembre 1982. Thriller explore des genres musicaux tels le funk, le post-disco, la musique soul, le soft rock, le R&B et la pop."
+      },
+      {
+        "name": "Notre-Dame d'Amiens",
+        "number": 200000000,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206948/dumb-converter/nd-amiens_wo4idy.webp",
+        "text": "Église catholique située à Amiens dans le département français de la Somme en région Hauts-de-France. Classée Monument historique en France depuis 1862, elle est inscrite depuis 1981 au patrimoine mondial de l'UNESCO."
+      },
+      {
+        "name": "Demi de bière",
+        "number": 0.25,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206944/dumb-converter/demi_dw9osp.webp",
+        "text": "Le demi de bière en France correspond à un quart de litre. Cette appellation paradoxale serait un héritage du demi-setier parisien : 'Demi-setier, se dit à Paris d’1/4 de litre.'"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Une durée",
+    "icon": "fa-solid fa-clock",
+    "color": "#F28800",
+    "unities": ["s", "min", "h", "jour"],
+    "options": [
+      {
+        "name": "Thriller",
+        "number": 2544,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206949/dumb-converter/thriller_oyw4rw.webp",
+        "text": "Le 6ème album studio de l'artiste américain Michael Jackson, il est coproduit par Quincy Jones et sort le 30 novembre 1982. Thriller explore des genres musicaux tels le funk, le post-disco, la musique soul, le soft rock, le R&B et la pop."
+      },
+      {
+        "name": "Paris - New-York",
+        "number": 30000,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206948/dumb-converter/paris-ny_hkpydx.webp",
+        "text": "Comparez les vols PAR - NYC. Trouvez le vol parfait en un instant! Vol Pas Cher Paris - New York. Comparez et économisez avec Dumb Converter. Prix exorbitants, 0 promo, 0 offre. Faites-nous confiance pour ne rien faire !"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Une vitesse",
+    "icon": "fa-solid fa-gauge-high",
+    "color": "#FFBF00",
+    "unities": ["m/s", "km/h", "du son", "de la lumière"],
+    "options": [
+      {
+        "name": "Tortue",
+        "number": 0.25,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206957/dumb-converter/tortue_ondvfc.webp",
+        "text": "Les 86 genres de tortues sont divisées en 14 familles. Elles se répartissent sur une bonne partie du globe et peuvent vivre dans des habitats très divers. Quarante-deux pour cent de ces espèces sont menacées de disparition, que ce soit en raison de la destruction de leurs habitats ou d'une prédation trop importante."
+      },
+      {
+        "name": "Sébastien Loeb",
+        "number": 240,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206947/dumb-converter/loeb_dm5wg6.webp",
+        "text": "Depuis le vol du premier A320 en 1987, ses commandes fermes dépassent 15 000 exemplaires en 2021, dont plus de 10 000 livrés, ce qui en fait l'avion de ligne le plus vendu au monde, devant son concurrent direct, le Boeing 737."
+      },
+      {
+        "name": "Autruche",
+        "number": 97,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206944/dumb-converter/autruche_hhgpma.webp",
+        "text": "L’autruche est le plus rapide des oiseaux à 2 pattes. Elle se déplace en marchant. Grâce à ses très longues pattes musclées comportant deux doigts à chaque patte, et à ses genoux flexibles et souples, l'autruche est très rapide et endurante."
+      },
+      {
+        "name": "SSC Tuatara",
+        "number": 532.93,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206949/dumb-converter/ssc_swktpq.webp",
+        "text": "La Tuatara (terme Maori du nom d'un lézard de Nouvelle-Zélande) est une supercar conçue par le constructeur américain SSC North America (anciennement Shelby Super Cars) à partir de 2020, pour succéder à la SSC Ultimate Aero. Elle est un des voitures les plus puissantes au monde, avec son V8 biturbo de 5,9 litres qui développe 1.750 ch."
+      },
+      {
+        "name": "Kylian MBappe",
+        "number": 37.6,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206947/dumb-converter/mbappe_yzct8c.webp",
+        "text": "Né le 20 décembre 1998 à Paris, est un footballeur international français qui évolue au poste d'attaquant. Vainqueur du championnat de France en 2017 avec l'AS Monaco, il est transféré au Paris Saint-Germain le 31 août 2017. Le soir même, il marque son premier but en équipe de France."
+      },
+      {
+        "name": "TGV",
+        "number": 574.8,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206949/dumb-converter/tgv_jyrdda.webp",
+        "text": "Le train à grande vitesse est une rame automotrice de conception française alimentée par caténaire et propulsée par des moteurs électriques. Depuis sa mise en service en 1981, un réseau de lignes nouvelles à grande vitesse a été construit en France, qui atteint 2 600 km en décembre 2017, le quatrième au monde par sa taille."
+      },
+      {
+        "name": "Usain Bolt",
+        "number": 43,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206943/dumb-converter/bolt_xbreh6.webp",
+        "text": "Né le 21 août 1986 dans la paroisse de Trelawny, est un athlète jamaïcain, spécialiste des épreuves de sprint. Il est le premier athlète à détenir simultanément les records du monde du 100 m, 200 m et 4×100 m, le seul athlète à avoir conservé deux titres individuels en sprint sur trois olympiades consécutives, et le seul à avoir battu trois records du monde lors d'une même olympiade."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Un son",
+    "icon": "fa-solid fa-microphone-lines",
+    "color": "#84CE04",
+    "unities": ["db"],
+    "options": [
+      {
+        "name": "Meeuuuheu",
+        "number": 72,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206965/dumb-converter/vache_sdmyo2.webp",
+        "text": "Les individus mâles sont appelés taureaux ou bœufs s'ils ont encore leurs 2 boules ou non et les jeunes, veaux. Une génisse ou vachette, appelée aussi taure au Québec ou dans le Poitou, est une vache qui n'a pas vêlé. Descendant de plusieurs sous-espèces d'aurochs, les bovins actuels (zébus compris) sont élevés pour produire du lait et de la viande, ou comme animaux de trait. En Inde, la vache est sacrée. Le mot vache vient du latin vacca, de même sens."
+      },
+      {
+        "name": "Sifflés au Parc des princes",
+        "number": 131,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206948/dumb-converter/parc_ppdflg.webp",
+        "text": "Stade situé depuis 1897 dans le sud-ouest de la ville de Paris, dans le 16e arrondissement de la ville, près de la commune de Boulogne-Billancourt, sa capacité en fait aujourd'hui le cinquième plus grand stade français, mais toujours l'un des plus anciens et des plus connus."
+      },
+      {
+        "name": "Airbus A330-300",
+        "number": 85,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206944/dumb-converter/a330_g3ooc6.webp",
+        "text": "Après le lancement de l'A310 en 1978 et de l'A300-600 en 1981, Airbus décide d'étudier un projet reprenant la section de fuselage de l'A300/310 mais avec une voilure nettement plus grande, provisoirement baptisée TA9, avec pour objectif de concurrencer le nouveau Boeing 767 en proposant un appareil avec une autonomie de plus de 10 000 km."
+      },
+      {
+        "name": "Sifflés au Vélodrôme",
+        "number": 120,
+        "img": "https://res.cloudinary.com/dzlah6r2w/image/upload/v1648206965/dumb-converter/velodrome_jt3yzq.webp",
+        "text": "Enceinte sportive située dans le 8e arrondissement de Marseille (Bouches-du-Rhône), au sein du quartier de Saint-Giniez, elle est le principal équipement sportif de la ville et deuxième stade de France en termes de capacité. Le Vélodrome est utilisé par le club de football de l'Olympique de Marseille depuis son inauguration en 1937."
+      }
+      
+    ]
+  }
+]
+
