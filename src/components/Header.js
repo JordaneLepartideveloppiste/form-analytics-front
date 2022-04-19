@@ -10,10 +10,9 @@ import logo8 from "../assets/img/logo-9.webp";
 import logo9 from "../assets/img/logo-10.webp";
 import logo10 from "../assets/img/logo-11.webp";
 import logo11 from "../assets/img/logo-1.webp";
-import { useState } from "react";
 
 const Header = ({color}) => {
-const [logoHeader, setLogoHeader] = useState("logo");
+
 
     return (
       <div className="test-header">
@@ -33,7 +32,7 @@ const [logoHeader, setLogoHeader] = useState("logo");
           ) : color === "#D00181" ? (
             <img src={logo7} alt="logo" />
           ) : color === "#F3003D" ? (
-            <img src={logo7} alt="logo" />
+            <img src={logo8} alt="logo" />
           ) : color === "#F28800" ? (
             <img src={logo9} alt="logo" />
           ) : color === "#EFCC00" ? (

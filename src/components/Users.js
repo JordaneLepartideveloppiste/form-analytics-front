@@ -7,10 +7,9 @@ const Users = ({ data }) => {
 
   arrayQuestions.shift();
   const numberQuestions = arrayQuestions.length;
-  const usersResponses = [];
   const arrayAllResponses = [];
   let arrayMessageForAllUsers = [];
-  let arrayUser = [];
+  let nbrResp = 0;
 
   for (let i = 0; i < data.length; i++) {
     for (let y = 1; y < Object.values(data[i]).length; y++) {
@@ -49,9 +48,11 @@ const Users = ({ data }) => {
 
 
   console.log(arrayMessageForUser[10].filter((mess) => mess === "oui").length);
-  let nbrResp = 0;
+  
+ 
 
   for (let i =0; i < arrayMessageForUser.length; i++) {
+    
     if (arrayMessageForUser[i]==="oui") {
       nbrResp += 1;
     }
