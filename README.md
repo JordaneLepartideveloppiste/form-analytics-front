@@ -7,10 +7,10 @@
 6. [F.A.Q](#F.A.Q)
 ### General Info
 *** 
-This opensource app allows to run through a mongoDb collection and count how many values has answered by a user in order to know wich question is suitable.
+This app allows you to convert some values with our dumb items.
 
 Status Project :
-Responsive in progress.
+Responsive in progress. From 1280px to 506px OK.
 ### Technologies
 ***
 ![LogoR](https://img.icons8.com/ultraviolet/48/000000/react--v1.png) ![LogoS](https://img.icons8.com/color/48/000000/sass.png) ![LogoM](https://img.icons8.com/color/48/000000/mongodb.png)
